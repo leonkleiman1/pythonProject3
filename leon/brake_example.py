@@ -8,4 +8,4 @@ while grade>=0 and grade<=100:
         break
     grade = int(input("please enter grade:"))
 else:
-    print("invalid grade")
+    print("leon")
